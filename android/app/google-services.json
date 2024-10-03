@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605577318574",
+    "project_id": "mentorconnect3-616d4",
+    "storage_bucket": "mentorconnect3-616d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605577318574:android:50a5f4b2080af498841d3f",
+        "android_client_info": {
+          "package_name": "com.mentorconnect3.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2hzQPBYfKsZ08cjN3sZjOp9ee1voiQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
